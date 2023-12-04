@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yuvi1772002@gmail.com**
 
-- ⚡ Fun fact **Coding is easy.**
+- ⚡ Fun fact **:Coding is easy🙂.**
 
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt ="coding" width="400" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif">
