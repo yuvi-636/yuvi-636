@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Netflix Clone**
+- 🔭 I’m currently working on **Shree-durga Canteen website**
 
 - 🌱 I’m currently learning **ReactJs,Sveltekit**
 
