@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Shree-durga Canteen website**
+- 🔭 Currently working on **Shree-durga Canteen website**
 
 - 🌱 I’m currently learning **ReactJs,Sveltekit**
 
