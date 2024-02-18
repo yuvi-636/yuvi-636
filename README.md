@@ -5,9 +5,9 @@
 
 
 
-- 🔭 Currently working on **Shree-durga Canteen website**
+- 🔭 Currently working on **Code-Editor using JavaScript & Image-identifier using Machine Learning**
 
-- 🌱 I’m currently learning **ReactJs,Sveltekit**
+- 🌱 I’m currently learning **ReactJs, MongoDB**
 
 - 📫 How to reach me **yuvi1772002@gmail.com**
 
