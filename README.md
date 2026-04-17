@@ -26,59 +26,31 @@
 
 <br/>
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">🚀 Projects</h2>
 
 <p align="center">
-
-<a href="https://github.com/yuvi-636/job-portal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvi-636&repo=job-portal&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/yuvi-636/code-editor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvi-636&repo=code-editor&theme=tokyonight" />
-</a>
-
+<b>💼 Job Portal (MERN Stack)</b><br/>
+<a href="https://job-portal-frontend-7n9u.onrender.com/" target="_blank">🔗 Live Demo</a> |
+<a href="https://github.com/yuvi-636/job-portal" target="_blank">💻 Source Code</a>
 </p>
 
 <p align="center">
-
-<a href="https://github.com/yuvi-636/image-identifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvi-636&repo=image-identifier&theme=tokyonight" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yuvi-636&repo=portfolio&theme=tokyonight" />
-</a>
-
+<b>🧑‍💻 Code Editor</b><br/>
+🔗 Live Demo (Coming Soon) |
+💻 <a href="https://github.com/yuvi-636/code-editor" target="_blank">Source Code</a>
 </p>
 
 <p align="center">
-<a href="https://job-portal-frontend-7n9u.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/Live%20Demo-000?style=for-the-badge&logo=vercel" />
-</a>
-
-<a href="https://github.com/yuvi-636/job-portal" target="_blank">
-<img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github" />
-</a>
+<b>🧠 Image Identifier (ML)</b><br/>
+💻 <a href="https://github.com/yuvi-636/image-identifier" target="_blank">Source Code</a>
 </p>
 
 <br/>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">Frontend</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</p>
-
-<h3 align="center">Backend & Database</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql" />
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,git,github,vscode" />
 </p>
 
 <br/>
@@ -137,6 +109,16 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<br/>
+
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+<a href="https://drive.google.com/file/d/1sbK4Wg0gIsOU9Wei1Yz6ncXm-ksA_u88/view?usp=drive_link" target="_blank">
+<img src="https://img.shields.io/badge/View%20Resume-000?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
 </p>
 
 <br/>
